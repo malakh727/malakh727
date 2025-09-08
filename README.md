@@ -28,7 +28,7 @@ I enjoy bridging **software engineering** with **scientific exploration**, alway
 ---
 
 ### 🌟 A Few Things About Me  
-- 👩‍💻 Strong interest in **frontend engineering** with a touch of backend and cloud.  
+- 👩‍💻 Strong interest in **frontend engineering** with a touch of backend.  
 - 🔭 Curious about **astronomy, quantum physics, and data-driven research**.  
 - 🌱 Always learning — from **new frameworks** to **scientific methods**.  
 - ⚡ Believe in **small, consistent steps** that lead to long-term growth.  
