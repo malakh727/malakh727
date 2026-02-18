@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Malak  
 
-🖥️ **Frontend Software Engineer** with 3 years’ experience building performant, SEO-friendly web applications using Angular.  
+🖥️ **Frontend Software Engineer** with 3 years’ experience building performant, SEO-friendly web applications.  
 
 🌌 **Master’s Student** in Smart & Secure Computer Engineering Systems.  
 
